@@ -62,7 +62,7 @@ Experiment with fonts and text styling by implementing the following.
     - follow these instructions to get google fonts: [Google Fonts Getting Started](https://developers.google.com/fonts/docs/getting_started)
 2. Add a link to the superscript `<sup>` so that it navigates to the attribution in the footer.
 3. Use this color scheme:
-  - body background color #b5c678
+  - body background color </a>
   - article background color #0c374d
   - header color: #0c374d
 4. Set default font size to 1.3rem
